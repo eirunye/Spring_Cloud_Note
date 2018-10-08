@@ -1,0 +1,20 @@
+eureka:
+  client:
+    service-url:
+       defaultZone: http://localhost:8081/eureka/
+
+server:
+  port: 8078
+
+spring:
+  application:
+    name: webzuul
+
+zuul:
+  routes:
+    api-webfeign:
+       path: /api-webfeign/**
+       serviceId: webfiegn
+    api-webribbon:
+       path: /api-webribbon/**
+       serviceId: webribbon

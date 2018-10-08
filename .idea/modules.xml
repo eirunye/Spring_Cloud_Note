@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springclouddemo.iml" filepath="$PROJECT_DIR$/springclouddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-eureka/web-eureka.iml" filepath="$PROJECT_DIR$/web-eureka/web-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web1client/web1client.iml" filepath="$PROJECT_DIR$/web1client/web1client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webclient/webclient.iml" filepath="$PROJECT_DIR$/webclient/webclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webconfig/webconfig.iml" filepath="$PROJECT_DIR$/webconfig/webconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webconsumer/webconsumer.iml" filepath="$PROJECT_DIR$/webconsumer/webconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webfeign/webfeign.iml" filepath="$PROJECT_DIR$/webfeign/webfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webribbon/webribbon.iml" filepath="$PROJECT_DIR$/webribbon/webribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webzuul/webzuul.iml" filepath="$PROJECT_DIR$/webzuul/webzuul.iml" />
+    </modules>
+  </component>
+</project>
